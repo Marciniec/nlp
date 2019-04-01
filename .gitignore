@@ -2,3 +2,6 @@
 **/\.ipynb_checkpoints/
 
 **/data/
+3-levenshtein/polimorfologik
+3-levenshtein/*.pickle
+3-levenshtein/lower_dicttionary

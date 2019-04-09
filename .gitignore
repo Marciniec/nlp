@@ -1,7 +1,9 @@
 
 **/\.ipynb_checkpoints/
-
+**/*.pickle
+**/__pycache__
 **/data/
+
 3-levenshtein/polimorfologik
-3-levenshtein/*.pickle
 3-levenshtein/lower_dicttionary
+4-multiword/llr.py

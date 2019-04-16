@@ -3,7 +3,7 @@
 **/*.pickle
 **/__pycache__
 **/data/
+**/llr.py
 
 3-levenshtein/polimorfologik
 3-levenshtein/lower_dicttionary
-4-multiword/llr.py

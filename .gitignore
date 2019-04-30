@@ -7,3 +7,20 @@
 
 3-levenshtein/polimorfologik
 3-levenshtein/lower_dicttionary
+
+6-wordnet/huwn-master/
+
+6-wordnet/WNXMLParser\.py
+
+6-wordnet/wnxmlconsole\.py
+
+6-wordnet/synset\.py
+
+6-wordnet/curved_edges\.py
+
+*.dot
+*.xml
+
+6-wordnet/SemFeatures\.py
+
+6-wordnet/WNQuery\.py

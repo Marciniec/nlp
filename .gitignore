@@ -24,3 +24,11 @@
 6-wordnet/SemFeatures\.py
 
 6-wordnet/WNQuery\.py
+
+7-embeddings/skipgram/
+
+7-embeddings/skipgram_v100\.zip
+
+7-embeddings/word2vec\.model
+
+7-embeddings/word2vec\.model\.vectors\.npy

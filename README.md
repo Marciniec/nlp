@@ -6,3 +6,4 @@ nlp
 4. [Multiword expressions identification](https://github.com/Marciniec/nlp/blob/master/4-multiword/4-multiword.ipynb)
 5. [Morphosyntactic tagging](https://github.com/Marciniec/nlp/blob/master/5-tagging/5-tagging.ipynb)
 6. [WordNet](https://github.com/Marciniec/nlp/blob/master/6-wordnet/6-wordnet.ipynb)
+7. [Embeddings](https://github.com/Marciniec/nlp/blob/master/7-embeddings/7-embeddings.ipynb)

@@ -32,3 +32,19 @@
 7-embeddings/word2vec\.model
 
 7-embeddings/word2vec\.model\.vectors\.npy
+
+8-classification/classifications/
+
+8-classification/fastText/
+
+*.train
+
+8-classification/model_text_1\.train\.bin
+
+*.bin
+
+8-classification/test
+
+8-classification/train
+
+8-classification/validate

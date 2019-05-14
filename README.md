@@ -7,3 +7,4 @@ nlp
 5. [Morphosyntactic tagging](https://github.com/Marciniec/nlp/blob/master/5-tagging/5-tagging.ipynb)
 6. [WordNet](https://github.com/Marciniec/nlp/blob/master/6-wordnet/6-wordnet.ipynb)
 7. [Embeddings](https://github.com/Marciniec/nlp/blob/master/7-embeddings/7-embeddings.ipynb)
+8. [Classification](https://github.com/Marciniec/nlp/blob/master/8-classification/8-classification.ipynb)

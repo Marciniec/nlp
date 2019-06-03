@@ -10,3 +10,9 @@ nlp
 8. [Classification](https://github.com/Marciniec/nlp/blob/master/8-classification/8-classification.ipynb)
 9. [Named entity recognition](https://github.com/Marciniec/nlp/blob/master/9-ner/9-ner.ipynb)
 10. [Language modelling](https://github.com/Marciniec/nlp/blob/master/10-lm/10-lm.ipynb)
+
+Natural language processing
+
+AGH UST Faculty of Computer Science, Electronics and Telecommunications
+
+Computer Science 8th term

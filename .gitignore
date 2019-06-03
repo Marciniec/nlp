@@ -48,3 +48,7 @@
 8-classification/train
 
 8-classification/validate
+
+9-ner/out/
+
+9-ner/random/

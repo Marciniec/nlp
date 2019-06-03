@@ -8,3 +8,5 @@ nlp
 6. [WordNet](https://github.com/Marciniec/nlp/blob/master/6-wordnet/6-wordnet.ipynb)
 7. [Embeddings](https://github.com/Marciniec/nlp/blob/master/7-embeddings/7-embeddings.ipynb)
 8. [Classification](https://github.com/Marciniec/nlp/blob/master/8-classification/8-classification.ipynb)
+9. [Named entity recognition](https://github.com/Marciniec/nlp/blob/master/9-ner/9-ner.ipynb)
+10. [Language modelling](https://github.com/Marciniec/nlp/blob/master/10-lm/10-lm.ipynb)
